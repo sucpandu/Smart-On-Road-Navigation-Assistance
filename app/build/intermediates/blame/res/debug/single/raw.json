@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/suchethapanduranga/Downloads/GoogleMapDirectionSimple-master 2/D:\\MccProjects\\Merge\\Working\\GoogleMapDirectionSimple-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "/Users/suchethapanduranga/Downloads/GoogleMapDirectionSimple-master 2/D:\\MccProjects\\Merge\\Working\\GoogleMapDirectionSimple-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.4.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "/Users/suchethapanduranga/Downloads/GoogleMapDirectionSimple-master 2/app/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/Users/suchethapanduranga/Downloads/GoogleMapDirectionSimple-master 2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/res/raw/gtm_analytics"
+    }
+]
